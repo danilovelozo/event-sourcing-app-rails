@@ -3,5 +3,7 @@
 References:
 
 `users_controller`
+
 `models/*`
+
 `models/events/base_event.rb`
